@@ -3,8 +3,8 @@ import shutil
 from tqdm import tqdm
 
 
-pasta_destino = r"G:\MULTIMIDIA\8362_VALIDACAO\20. SETOR Fraude de Identidade\Galeria\Homens"
-origem = r"G:\MULTIMIDIA\8362_VALIDACAO\1. Galeria de Fraudadores\1. Homens"
+pasta_destino = r"caminho para a pasta de destino"
+origem = r"caminho para a pasta de origem"
 pastas_origem = []  # será uma lista de pastas
 cont = 0
 
