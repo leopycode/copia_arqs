@@ -1,6 +1,5 @@
 import os
 import shutil
-from tqdm import tqdm
 
 
 pasta_destino = r"caminho para a pasta de destino"
